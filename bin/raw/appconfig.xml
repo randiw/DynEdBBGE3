@@ -1,0 +1,3075 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mainlist>
+	<appname>General English 3</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: What do you do in the summer?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0301A.jpg</image>
+				<audio>NDE0301A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Pat Miller.
+				
+Pat: Hello, Kathy. Hi, Max.
+
+Kathy: Pat, how's school going?
+
+Pat: It's going well. I'm working hard but I enjoy it.
+
+Kathy: Do you get a vacation?
+
+Pat: Sure I do. Our summer vacation begins in June. It lasts until September. We also have a two-week vacation in December.
+
+Kathy: What do you do during your summer vacation?
+
+Pat: In the summer, I like to go swimming. I like hot weather, and I love going to the beach.</viewscript>
+				<comprehension>
+					<title>Lesson 1-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Does Pat enjoy school?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>It's too hard.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When does her summer vacation begin?</question>
+						<option>June</option>
+						<option>September</option>
+						<option>December</option>
+						<answer>June</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does she like to do in the summer?</question>
+						<option>go swimming</option>
+						<option>work hard</option>
+						<option>go skiing</option>
+						<answer>go swimming</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>School is _____ well.</question>
+						<option>going</option>
+						<option>having</option>
+						<option>being</option>
+						<answer>going</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Summer vacation _____ until September.</question>
+						<option>lasts</option>
+						<option>last</option>
+						<option>lasting</option>
+						<answer>lasts</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What do you do ______ your summer vacation?</question>
+						<option>during</option>
+						<option>when</option>
+						<option>while</option>
+						<answer>during</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0301B.jpg</image>
+				<audio>NDE0301B.mp3</audio>
+				<viewscript>Pat: In the summer, I like to go swimming. I like hot weather, and I love going to the beach.
+				
+Kathy: How about winter? What do you do in the winter?
+
+Pat: I sometimes go skiing, but I don't like cold weather. When it's cold, I prefer to stay inside.
+
+Kathy: Sure. Me too!</viewscript>
+				<comprehension>
+					<title>Lesson 1-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0301B_Q1.mp3|Does Pat like cold weather?</question>
+						<option>No, she doesn't.</option>
+						<option>Yes, she does.</option>
+						<option>She likes cold weather.</option>
+						<answer>No, she doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0301B_Q2.mp3|What does Pat do when it's cold?</question>
+						<option>She stays inside.</option>
+						<option>She goes swimming.</option>
+						<option>She goes outside.</option>
+						<answer>She stays inside.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0301B_Q3.mp3|Which does she prefer, winter or summer?</question>
+						<option>summer</option>
+						<option>winter</option>
+						<option>She doesn't like hot weather.</option>
+						<answer>summer</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>swimming.</option>
+						<option>go</option>
+						<option>I</option>
+						<option>like</option>
+						<option>to</option>
+						<answer>I like to go swimming.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>What</option>
+						<option>you do</option>
+						<option>in the</option>
+						<option>winter?</option>
+						<option>do</option>
+						<answer>What do you do in the winter?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>cold</option>
+						<option>weather.</option>
+						<option>I</option>
+						<option>don't</option>
+						<option>like</option>
+						<answer>I don't like cold weather.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0301C.jpg</image>
+				<audio>NDE0301C.mp3</audio>
+				<viewscript>Kathy: We're back with our guest, Pat Miller. What's your favorite season, Pat?
+				
+Pat: My favorite season? Well, I like summer a lot, but I think my favorite season is spring.
+
+Kathy: Why is that?
+
+Pat: Well, it's warm. The flowers bloom and the leaves on the trees turn green. In spring, people come here to see the cherry blossoms.
+
+Kathy: Do you like fall?
+
+Pat: I like fall. I like to see the leaves turn colors. It's a beautiful time of year, but it starts to get cool. I don't like cool weather very much.
+
+Kathy: What about winter?
+
+Pat: Oh, I hate winter! It's cold and dark. I hate it!</viewscript>
+				<comprehension>
+					<title>Lesson 1-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Pat's favorite season?</question>
+						<option>spring</option>
+						<option>summer</option>
+						<option>fall</option>
+						<answer>spring</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When do the leaves turn colors?</question>
+						<option>fall</option>
+						<option>winter</option>
+						<option>spring</option>
+						<answer>fall</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which season does Pat like the least?</question>
+						<option>winter</option>
+						<option>summer</option>
+						<option>fall</option>
+						<answer>winter</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>People come here ______ the cherry blossoms.</question>
+						<option>to see</option>
+						<option>see</option>
+						<option>seeing</option>
+						<answer>to see</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>It ______ to get cool in the fall.</question>
+						<option>starts</option>
+						<option>starting</option>
+						<option>start</option>
+						<answer>starts</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I _____ like cool weather very much.</question>
+						<option>don't</option>
+						<option>doesn't</option>
+						<option>does</option>
+						<answer>don't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: Can you tell us about your photographs?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0302A.jpg</image>
+				<audio>NDE0302A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Simon Tompkins. Good morning, Mr. Tompkins.
+				
+Simon: Simon. Call me Simon.
+
+Kathy: I see you have some photographs with you, Simon. Can you tell us about them?
+
+Simon: Certainly. These photographs are from my new series: Twenty-Four Hours on the Farm. They show the farm at different times of the day. For example, here is a photo of a farm in early morning. It's six a.m., the beginning of the day. The sun is very low in the sky. Through the window, we can see the farmer and his family.
+
+Kathy: Right. They are eating breakfast.
+
+Simon: And the farm animals are waking up.
+
+Kathy: I see. In the yard, the chickens are looking for food. And the rooster is crowing!</viewscript>
+				<comprehension>
+					<title>Lesson 2-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Simon do?</question>
+						<option>He's a photographer.</option>
+						<option>He's a farmer.</option>
+						<option>He's a painter.</option>
+						<answer>He's a photographer.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>When was the photograph taken?</question>
+						<option>early morning</option>
+						<option>late afternoon</option>
+						<option>evening</option>
+						<answer>early morning</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is the farmer doing in the photograph?</question>
+						<option>eating breakfast</option>
+						<option>working in the fields</option>
+						<option>feeding the chickens</option>
+						<answer>eating breakfast</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Here is a _____ of a farm in early morning.</question>
+						<option>photo</option>
+						<option>photography</option>
+						<option>photographer</option>
+						<answer>photo</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The farmer and his family __________ breakfast.</question>
+						<option>are eating</option>
+						<option>eating</option>
+						<option>eats</option>
+						<answer>are eating</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>The chickens ___ looking for food.</question>
+						<option>are</option>
+						<option>is</option>
+						<option>do</option>
+						<answer>are</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0302B.jpg</image>
+				<audio>NDE0302B.mp3</audio>
+				<viewscript>Simon: Let's look at another photo.
+				
+Kathy: What's this one?
+
+Simon: Can you guess?
+
+Kathy: Well, the sun is high in the sky. The people are working in the field. What are they doing?
+
+Simon: They're picking tomatoes.
+
+Kathy: Is it in the afternoon?
+
+Simon: Yes, it is. It's about two o'clock in the afternoon.
+
+Kathy: It's a nice picture, Simon. Thank you. What about this one? This is in the evening, isn't it?
+
+Simon: Yes. The sun is going down and the sky is beautiful. The animals are going back to the barn. Some of the workers are leaving.
+
+Kathy: I like this picture a lot.
+
+Simon: Thank you.</viewscript>
+				<comprehension>
+					<title>Lesson 2-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0302B_Q1.mp3|What are the people doing in the field?</question>
+						<option>They are picking tomatoes.</option>
+						<option>They are cooking tomatoes.</option>
+						<option>They are eating tomatoes.</option>
+						<answer>They are picking tomatoes.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0302B_Q2.mp3|What time of day is it in the first photo?</question>
+						<option>It's two o'clock in the afternoon.</option>
+						<option>It's early evening.</option>
+						<option>The sun is going down.</option>
+						<answer>It's two o'clock in the afternoon.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0302B_Q3.mp3|What is happening in the second photo?</question>
+						<option>The animals are going back to the barn.</option>
+						<option>The farmer is working in the field.</option>
+						<option>The sun is rising.</option>
+						<answer>The animals are going back to the barn.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>the sky.</option>
+						<option>The</option>
+						<option>sun</option>
+						<option>is</option>
+						<option>high</option>
+						<option>in</option>
+						<answer>The sun is high in the sky.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the field.</option>
+						<option>The</option>
+						<option>people</option>
+						<option>are</option>
+						<option>working</option>
+						<option>in</option>
+						<answer>The people are working in the field.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>the barn.</option>
+						<option>going back</option>
+						<option>are</option>
+						<option>The</option>
+						<option>animals</option>
+						<option>to</option>
+						<answer>The animals are going back to the barn.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0302C.jpg</image>
+				<audio>NDE0302C.mp3</audio>
+				<viewscript>Kathy: Let's look at one more.
+				
+Simon: OK. In this one, everything is dark. There are stars in the sky and the house is dark. Everyone is asleep.
+
+Kathy: Look. There's the moon!
+
+Simon: Yes, you can see the moon behind that tree. The moon is just coming up.
+
+Kathy: What's your favorite time of day?
+
+Simon: My favorite time of day? That's a good question. My favorite time of day is morning. Early morning.
+
+Kathy: Why is that?
+
+Simon: Mornings are very beautiful. It's quiet and you can hear the birds singing. It's a very special time of day for me.</viewscript>
+				<comprehension>
+					<title>Lesson 2-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What time of day is it in the photo?</question>
+						<option>late at night</option>
+						<option>early evening</option>
+						<option>morning</option>
+						<answer>late at night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where is the moon in the photo?</question>
+						<option>It is coming up behind a tree.</option>
+						<option>It is high in the sky.</option>
+						<option>It is going down.</option>
+						<answer>It is coming up behind a tree.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is Simon's favorite time of day?</question>
+						<option>early morning, when the sun is rising</option>
+						<option>early evening, when the sun is setting</option>
+						<option>mid-day, when the sun is high in the sky</option>
+						<answer>early morning, when the sun is rising</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ stars in the sky and the house is dark.</question>
+						<option>There are</option>
+						<option>This is</option>
+						<option>They are</option>
+						<answer>There are</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>The moon is just ______ up.</question>
+						<option>coming</option>
+						<option>come</option>
+						<option>came</option>
+						<answer>coming</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>You can hear the birds _______.</question>
+						<option>singing</option>
+						<option>sing</option>
+						<option>to sing</option>
+						<answer>singing</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: Do you like living in Florida?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0303A.jpg</image>
+				<audio>NDE0303A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandra Harris. Sandra is a music teacher. She lives with her husband and two children in Miami, Florida. Sandra, it's nice to have you back with us.
+
+Sandra: It's nice to be back. 
+
+Kathy: Do you like Florida? Do you like living in Florida?
+
+Sandra: Yes, I do. It's a nice place to live.
+
+Kathy: Why do you think so?
+
+Sandra: Well, I love the weather. I like warm, sunny days.
+
+Kathy: What kind of things do you do on sunny days?
+
+Sandra: On sunny days, I like to go to the beach. We live near the beach. We swim in the ocean, and my daughter, Collette, loves to go surfing.</viewscript>
+				<comprehension>
+					<title>Lesson 3-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What's the weather like in Florida?</question>
+						<option>warm and sunny</option>
+						<option>warm in the summer and cold in the winter</option>
+						<option>hot and cloudy</option>
+						<answer>warm and sunny</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does Sandra like to do on sunny days?</question>
+						<option>go to the beach</option>
+						<option>go for a drive</option>
+						<option>go shopping</option>
+						<answer>go to the beach</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who likes to surf?</question>
+						<option>Sandra's daughter</option>
+						<option>Sandra</option>
+						<option>Sandra's son</option>
+						<answer>Sandra's daughter</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you like ______ in Florida?</question>
+						<option>living</option>
+						<option>live</option>
+						<option>lives</option>
+						<answer>living</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What kinds of things _________ on sunny days?</question>
+						<option>do you do</option>
+						<option>you do</option>
+						<option>do you</option>
+						<answer>do you do</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My daughter loves _____ surfing.</question>
+						<option>to go</option>
+						<option>go</option>
+						<option>going to</option>
+						<answer>to go</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0303B.jpg</image>
+				<audio>NDE0303B.mp3</audio>
+				<viewscript>Kathy: Is it often warm and sunny in Florida?
+				
+Sandra: Yes, it is sunny most of the time. Of course, sometimes it's cloudy or rainy.
+
+Kathy: What do you do when the weather is bad?
+
+Sandra: I like to stay home and read a good book, or watch a video.
+
+Kathy: What else do you like to do?
+
+Sandra: Well, my husband, Bob, and I have a sailboat. On windy days, we like to go sailing.</viewscript>
+				<comprehension>
+					<title>Lesson 3-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0303B_Q1.mp3|Is it always warm and sunny in Florida?</question>
+						<option>It is sunny most of the time, but not always.</option>
+						<option>No, not usually.</option>
+						<option>Sometimes, but not often.</option>
+						<answer>It is sunny most of the time, but not always.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0303B_Q2.mp3|What does Sandra do when the weather is bad?</question>
+						<option>stay home</option>
+						<option>go to the beach</option>
+						<option>go surfing</option>
+						<answer>stay home</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0303B_Q3.mp3|When do Sandra and Bob like to go sailing?</question>
+						<option>on windy days</option>
+						<option>on sunny days</option>
+						<option>on rainy days</option>
+						<answer>on windy days</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>of the</option>
+						<option>time.</option>
+						<option>most</option>
+						<option>It</option>
+						<option>is</option>
+						<option>sunny</option>
+						<answer>It is sunny most of the time.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>the weather</option>
+						<option>do</option>
+						<option>is bad?</option>
+						<option>do you</option>
+						<option>What</option>
+						<option>when</option>
+						<answer>What do you do when the weather is bad?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>On</option>
+						<option>sailing.</option>
+						<option>to go</option>
+						<option>we</option>
+						<option>like</option>
+						<option>windy days,</option>
+						<answer>On windy days, we like to go sailing.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0303C.jpg</image>
+				<audio>NDE0303C.mp3</audio>
+				<viewscript>Kathy: Does it ever rain in Florida?
+				
+Sandra: Yes, it does. It sometimes rains. And of course, sometimes we have big storms... hurricanes.
+
+Kathy: Does it ever get cold in Florida?
+
+Sandra: Sometimes, but not very often. In Florida, the weather is almost always warm.... even when it rains.
+
+Kathy: How about snow? Does it ever snow in Florida?
+
+Sandra: Not in Miami, where we live. It never snows in Miami. It's too warm.</viewscript>
+				<comprehension>
+					<title>Lesson 3-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Does it ever rain in Florida?</question>
+						<option>It sometimes rains.</option>
+						<option>It never rains.</option>
+						<option>It's always rainy.</option>
+						<answer>It sometimes rains.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What's the temperature like when it rains in Florida?</question>
+						<option>warm</option>
+						<option>rather cool</option>
+						<option>quite cold</option>
+						<answer>warm</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How often does it snow in Miami?</question>
+						<option>It never snows in Miami.</option>
+						<option>It sometimes snows in Miami.</option>
+						<option>It almost never snows in Miami.</option>
+						<answer>It never snows in Miami.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Does it ____ get cold in Florida?</question>
+						<option>ever</option>
+						<option>every</option>
+						<option>never</option>
+						<answer>ever</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>It never _____ in Miami.</question>
+						<option>snows</option>
+						<option>snowing</option>
+						<option>to snow</option>
+						<answer>snows</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Sometimes it gets cold, but not very _____.</question>
+						<option>often</option>
+						<option>always</option>
+						<option>usually</option>
+						<answer>often</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0303_bonus.jpg</image>
+				<audio>NDE0303_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm on Wisconsin Avenue in Georgetown. Excuse me.
+				
+Woman: Yes...
+
+Kent: I'm Kent Moss, the New Dynamic English Man on the Street. Do you mind if I ask you a few questions?
+
+Woman: No, not at all.
+
+Kent: Are you on your way to work?
+
+Woman: Yes, I am. I'm walking to work.
+
+Kent: Do you always walk to work in the morning?
+
+Woman: When the weather is good, I usually walk to work. On rainy days, I take the bus.
+
+Kent: Do you walk home at night, too?
+
+Woman: Yes, I do, except in winter. In the winter, the sun sets early, so it gets very dark. I don't like to walk after dark. So in the winter, I take the bus home at night.
+
+Woman: But I usually walk to work in the morning.
+
+Kent: Isn't it cold in the winter?
+
+Woman: Yes, it is, but it's not too cold to walk. It helps me to wake up. And it only takes me 20 minutes to walk to work.
+
+Kent: What do you do when it snows?
+
+Woman: When it snows, I take the bus.
+
+Kent: Do you ever drive? Do you ever drive to work?
+
+Woman: No, never. There's too much traffic. And I can't find a parking place!
+
+Kent: Thank you for taking the time to talk with me.
+
+Woman: My pleasure.</viewscript>
+				<comprehension>
+					<title>Lesson 3-Bonus Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does the woman usually get to work?</question>
+						<option>She walks.</option>
+						<option>She takes the bus.</option>
+						<option>She drives her car.</option>
+						<answer>She walks.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does she do when it rains?</question>
+						<option>She takes the bus.</option>
+						<option>She takes the subway.</option>
+						<option>She takes the train.</option>
+						<answer>She takes the bus.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How long does it take her to walk to work?</question>
+						<option>20 minutes</option>
+						<option>40 minutes</option>
+						<option>10 minutes</option>
+						<answer>20 minutes</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>__ you mind if I ask you a few questions?</question>
+						<option>Do</option>
+						<option>Are</option>
+						<option>Can</option>
+						<answer>Do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you always ____ to work in the morning?</question>
+						<option>walk</option>
+						<option>walked</option>
+						<option>walking</option>
+						<answer>walk</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It _____ me 20 minutes to walk to work.</question>
+						<option>takes</option>
+						<option>take</option>
+						<option>is taking</option>
+						<answer>takes</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: I work with small children.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0304A.jpg</image>
+				<audio>NDE0304A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Doctor Sara Scott. Welcome back, Sara.
+				
+Sara: Nice to see you again.
+
+Kathy: How's your sister?
+
+Sara: My sister Chris? Oh, she's fine. She's back home in Chicago.
+
+Kathy: Do you like living in Chicago?
+
+Sara: Yes, but I don't like the weather. It's very cold in the winter. And we get lots of snow.
+
+Kathy: It's very windy in Chicago, isn't it?
+
+Sara: Yes, it is. They call Chicago the Windy City.</viewscript>
+				<comprehension>
+					<title>Lesson 4-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where do Sara and her sister live?</question>
+						<option>Chicago</option>
+						<option>Florida</option>
+						<option>Washington</option>
+						<answer>Chicago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does Sara think about the weather in Chicago?</question>
+						<option>She doesn't like it.</option>
+						<option>She likes cold weather.</option>
+						<option>She likes snow.</option>
+						<answer>She doesn't like it.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What do they call Chicago?</question>
+						<option>the Windy City</option>
+						<option>the Snowy City</option>
+						<option>the Cold City</option>
+						<answer>the Windy City</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Do you like living __ Chicago?</question>
+						<option>in</option>
+						<option>to</option>
+						<option>at</option>
+						<answer>in</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I don't ____ the weather in winter.</question>
+						<option>like</option>
+						<option>to like</option>
+						<option>liking</option>
+						<answer>like</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>It's very cold __ the winter.</question>
+						<option>in</option>
+						<option>at</option>
+						<option>on</option>
+						<answer>in</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0304B.jpg</image>
+				<audio>NDE0304B.mp3</audio>
+				<viewscript>Kathy: Why do you stay in Chicago?
+				
+Sara: Well, my parents live here.
+
+Kathy: Oh, what do they do?
+
+Sara: My father is retired. My mother is a nurse. She works in a small clinic.
+
+Kathy: You work in a hospital, don't you?
+
+Sara: That's right. I work mostly with children.
+
+Kathy: With children?
+
+Sara: Yes, children with medical problems.
+
+Kathy: Can you give us an example?
+
+Sara: Certainly. Most children learn to read when they are five or six. But some don't. Sometimes they have problems with their eyes or their ears.</viewscript>
+				<comprehension>
+					<title>Lesson 4-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0304B_Q1.mp3|Who is a nurse in a small clinic?</question>
+						<option>Sara's mother</option>
+						<option>Sara's father</option>
+						<option>Sara</option>
+						<answer>Sara's mother</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0304B_Q2.mp3|Where does Sara work as a doctor?</question>
+						<option>in a hospital</option>
+						<option>in a clinic</option>
+						<option>at home</option>
+						<answer>in a hospital</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0304B_Q3.mp3|Does Sara usually work with adults or with children?</question>
+						<option>with children</option>
+						<option>with adults</option>
+						<option>with young adults and adults</option>
+						<answer>with children</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>my mother</option>
+						<option>and</option>
+						<option>My father</option>
+						<option>is</option>
+						<option>a nurse.</option>
+						<option>is retired,</option>
+						<answer>My father is retired, and my mother is a nurse.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>don't</option>
+						<option>you?</option>
+						<option>work</option>
+						<option>in</option>
+						<option>a hospital,</option>
+						<option>You</option>
+						<answer>You work in a hospital, don't you?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>when</option>
+						<option>they are</option>
+						<option>to read</option>
+						<option>Most children</option>
+						<option>five or six.</option>
+						<option>learn</option>
+						<answer>Most children learn to read when they are five or six.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0304C.jpg</image>
+				<audio>NDE0304C.mp3</audio>
+				<viewscript>Sara: I work mostly with children.
+				
+Kathy: With children?
+
+Sara: Yes, children with medical problems.
+
+Kathy: Can you give us an example?
+
+Sara: Certainly. Most children learn to read when they are five or six. But some don't. Sometimes they have problems with their eyes or their ears.
+
+Kathy: With their ears?
+
+Sara: Yes. Sometimes they have a hearing problem. Something is wrong with their ears, and they can't hear very well. And when children can't hear very well, they have trouble reading.
+
+Kathy: So you help these children. Very interesting work!</viewscript>
+				<comprehension>
+					<title>Lesson 4-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When do most children learn to read?</question>
+						<option>when they are five or six years old</option>
+						<option>when they are in fifth or sixth grade</option>
+						<option>before they go to school</option>
+						<answer>when they are five or six years old</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Why don't some children learn to read?</question>
+						<option>They have problems with their eyes or their ears.</option>
+						<option>They go to school.</option>
+						<option>They know how to read and write.</option>
+						<answer>They have problems with their eyes or their ears.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What kind of medical problems does Sara help with?</question>
+						<option>problems with hearing</option>
+						<option>problems with speaking</option>
+						<option>problems with walking</option>
+						<answer>problems with hearing</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Something is _____ with their ears.</question>
+						<option>wrong</option>
+						<option>problem</option>
+						<option>trouble</option>
+						<answer>wrong</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>They can't ____ very well.</question>
+						<option>hear</option>
+						<option>hearing</option>
+						<option>to hear</option>
+						<answer>hear</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>When children can't hear very well, they ____ trouble reading.</question>
+						<option>have</option>
+						<option>are</option>
+						<option>do</option>
+						<answer>have</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: I'm a fashion model.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0305A.jpg</image>
+				<audio>NDE0305A.mp3</audio>
+				<viewscript>Kathy: Hello, Jenny. It's nice to meet you.
+				
+Jenny: It's nice to meet you too, Kathy. Max, it's nice to meet you.
+
+Max: A pleasure.
+
+Kathy: You're a model, aren't you?
+
+Jenny: That's right.
+
+Kathy: What kind of model are you?
+
+Jenny: I'm a fashion model. I model clothes.
+
+Kathy: Are your pictures in magazines?
+
+Jenny: Yes, they are. In magazines and newspapers.</viewscript>
+				<comprehension>
+					<title>Lesson 5-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of work does Jenny do?</question>
+						<option>She's a fashion model.</option>
+						<option>She's a clothes designer.</option>
+						<option>She sells clothes.</option>
+						<answer>She's a fashion model.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does a fashion model do?</question>
+						<option>Fashion models wear new clothes in pictures.</option>
+						<option>Fashion models design new clothes.</option>
+						<option>Fashion models make new clothes.</option>
+						<answer>Fashion models wear new clothes in pictures.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where can you see Jenny's pictures?</question>
+						<option>in newspapers and magazines</option>
+						<option>on TV</option>
+						<option>in movies</option>
+						<answer>in newspapers and magazines</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Max, it's ____ to meet you.</question>
+						<option>nice</option>
+						<option>pleasure</option>
+						<option>better</option>
+						<answer>nice</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>______ a model, aren't you?</question>
+						<option>You're</option>
+						<option>You</option>
+						<option>Are you</option>
+						<answer>You're</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>___ your pictures in magazines?</question>
+						<option>Are</option>
+						<option>Is</option>
+						<option>Can</option>
+						<answer>Are</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0305B.jpg</image>
+				<audio>NDE0305B.mp3</audio>
+				<viewscript>Kathy: Do you like modeling?
+				
+Jenny: Yes, I like it a lot. And the pay is very good.
+
+Kathy: Do you travel a lot?
+
+Jenny: Not very much. I don't like to travel. I like to be with my family.
+
+Kathy: You have a son, don't you?
+
+Jenny: Yes, I have one son. He's five years old. His name is Jason.</viewscript>
+				<comprehension>
+					<title>Lesson 5-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0305B_Q1.mp3|Does Jenny like modeling?</question>
+						<option>Yes, she likes it a lot.</option>
+						<option>No, she doesn't like to model.</option>
+						<option>Not very much.</option>
+						<answer>Yes, she likes it a lot.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0305B_Q2.mp3|Is Jenny well paid as a fashion model?</question>
+						<option>Yes, she is well paid.</option>
+						<option>No, she is not well paid.</option>
+						<option>Her pay is not very good.</option>
+						<answer>Yes, she is well paid.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0305B_Q3.mp3|How often does she travel?</question>
+						<option>not very often</option>
+						<option>several times a month</option>
+						<option>all the time</option>
+						<answer>not very often</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>travel</option>
+						<option>a lot?</option>
+						<option>you</option>
+						<option>Do</option>
+						<answer>Do you travel a lot?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>to be</option>
+						<option>my</option>
+						<option>family.</option>
+						<option>I</option>
+						<option>like</option>
+						<option>with</option>
+						<answer>I like to be with my family.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>You</option>
+						<option>don't</option>
+						<option>you?</option>
+						<option>have</option>
+						<option>son,</option>
+						<option>a</option>
+						<answer>You have a son, don't you?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0305C.jpg</image>
+				<audio>NDE0305C.mp3</audio>
+				<viewscript>Kathy: Jenny, I see that you're tall. Are most models tall?
+				
+Jenny: Well, many models are tall, but not all of them are tall. Some models are short.
+
+Kathy: What about weight? Are most models thin?
+
+Jenny: No. As you can see, I'm not very thin.
+
+Kathy: But many models are thin, aren't they?
+
+Jenny: Of course, some models are very thin.
+
+Kathy: In my opinion, some models are too thin.
+
+Jenny: I agree. Some models are too thin. They look like toothpicks! 
+
+Kathy: Yes, that's right, Jenny.</viewscript>
+				<comprehension>
+					<title>Lesson 5-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Jenny look like?</question>
+						<option>tall, but not very thin</option>
+						<option>tall and thin</option>
+						<option>thin, but not very tall</option>
+						<answer>tall, but not very thin</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Are all fashion models tall?</question>
+						<option>Most are, but some of them are not.</option>
+						<option>Yes, they are.</option>
+						<option>No. Most models  are not tall.</option>
+						<answer>Most are, but some of them are not.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does Jenny think about fashion models?</question>
+						<option>Some of them are too thin.</option>
+						<option>Some of them are too tall.</option>
+						<option>Some of them are too short.</option>
+						<answer>Some of them are too thin.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Are most ______ tall?</question>
+						<option>models</option>
+						<option>model</option>
+						<option>the models</option>
+						<answer>models</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Many models are thin, aren't ____?</question>
+						<option>they</option>
+						<option>you</option>
+						<option>them</option>
+						<answer>they</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Some models are ___ thin. They look like toothpicks!</question>
+						<option>too</option>
+						<option>not</option>
+						<option>being</option>
+						<answer>too</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: What do you do in your free time?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0306A.jpg</image>
+				<audio>NDE0306A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Henry Thornton. Hello, Mr. Thornton. Welcome back to our show.
+				
+Henry: It's my pleasure to be here.
+
+Kathy: You live in Seattle, don't you?
+
+Henry: That's right.
+
+Kathy: Do you like Seattle?
+
+Henry: Yes, I do, but it rains a lot.
+
+Kathy: I was wondering, what do you do in your free time?
+
+Henry: In my free time?
+
+Kathy: That's right. When you're not working. What do you do when you're not working?
+
+Henry: Oh, I go out to dinner, usually with friends.</viewscript>
+				<comprehension>
+					<title>Lesson 6-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Henry feel about Seattle?</question>
+						<option>He likes living there.</option>
+						<option>He doesn't like living there.</option>
+						<option>He would like to live there.</option>
+						<answer>He likes living there.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What's the weather like in Seattle?</question>
+						<option>It rains a lot.</option>
+						<option>It never snows.</option>
+						<option>It is warm and sunny.</option>
+						<answer>It rains a lot.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does Henry like to do in his free time?</question>
+						<option>He likes to go out to dinner.</option>
+						<option>He likes to cook for his friends.</option>
+						<option>He likes to work.</option>
+						<answer>He likes to go out to dinner.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>You live in Seattle, _____ you?</question>
+						<option>don't</option>
+						<option>will</option>
+						<option>are</option>
+						<answer>don't</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I like Seattle, ___ it rains a lot.</question>
+						<option>but</option>
+						<option>which</option>
+						<option>then</option>
+						<answer>but</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What do you do when you're not _______?</question>
+						<option>working</option>
+						<option>work</option>
+						<option>do work</option>
+						<answer>working</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0306B.jpg</image>
+				<audio>NDE0306B.mp3</audio>
+				<viewscript>Kathy: When you go out to dinner, where do you usually go?
+				
+Henry: What kind of restaurant?
+
+Kathy: That's right.
+
+Henry: Well, I usually go to a steak house.
+
+Kathy: When you go to a steak house, what do you usually eat?
+
+Henry: Steak, of course!
+
+Kathy: What else do you do in your free time?
+
+Henry: Well, I spend a lot of time in my house.
+
+Kathy: What do you do when you're at home?
+
+Henry: Well, I listen to music. I also like to work in my garden.</viewscript>
+				<comprehension>
+					<title>Lesson 6-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0306B_Q1.mp3|What does Henry like to eat when he goes out to dinner?</question>
+						<option>steak</option>
+						<option>a steak restaurant</option>
+						<option>with his friends</option>
+						<answer>steak</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0306B_Q2.mp3|How much time does Henry spend at home?</question>
+						<option>a lot</option>
+						<option>not very much</option>
+						<option>He works at home.</option>
+						<answer>a lot</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0306B_Q3.mp3|What does Henry do when he's at home?</question>
+						<option>listen to music and work in the garden</option>
+						<option>eat steak</option>
+						<option>spend time with his friends</option>
+						<answer>listen to music and work in the garden</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>what</option>
+						<option>to dinner,</option>
+						<option>When you</option>
+						<option>eat?</option>
+						<option>go out</option>
+						<option>do you</option>
+						<answer>When you go out to dinner, what do you eat?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>do</option>
+						<option>in your</option>
+						<option>you do</option>
+						<option>What else</option>
+						<option>free time?</option>
+						<answer>What else do you do in your free time?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>at home?</option>
+						<option>What</option>
+						<option>do</option>
+						<option>do you</option>
+						<option>you're</option>
+						<option>when</option>
+						<answer>What do you do when you're at home?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0306C.jpg</image>
+				<audio>NDE0306C.mp3</audio>
+				<viewscript>Kathy: What do you do when you're at home?
+				
+Henry: Well, I listen to music. I also like to work in my garden.
+
+Kathy: What do you do when it's raining?
+
+Henry: Well, I stay inside and watch TV. I like to watch the news.
+
+Kathy: Do you like to travel?
+
+Henry: No, I don't. I don't like to travel. I don't like airplanes. When I'm in an airplane, I'm very uncomfortable.
+
+Kathy: So you don't like to fly.
+
+Henry: No, I don't.</viewscript>
+				<comprehension>
+					<title>Lesson 6-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Henry like to do when it's raining?</question>
+						<option>stay inside and watch TV</option>
+						<option>work in his garden</option>
+						<option>go out to dinner</option>
+						<answer>stay inside and watch TV</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does he like to watch on TV?</question>
+						<option>the news</option>
+						<option>movies</option>
+						<option>all kinds of TV shows</option>
+						<answer>the news</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Henry feel about travelling?</question>
+						<option>He doesn't like to travel.</option>
+						<option>He prefers to travel by airplane.</option>
+						<option>He prefers to take the train.</option>
+						<answer>He doesn't like to travel.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What do you do ____ it's raining?</question>
+						<option>when</option>
+						<option>for</option>
+						<option>during</option>
+						<answer>when</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I don't like _________.</question>
+						<option>to travel</option>
+						<option>travel</option>
+						<option>the travel</option>
+						<answer>to travel</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>____ I'm in an airplane, I'm very uncomfortable.</question>
+						<option>When</option>
+						<option>During</option>
+						<option>For</option>
+						<answer>When</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0306_bonus.jpg</image>
+				<audio>NDE0306_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing inside the Lincoln Memorial in Washington, D.C. Excuse me, sir?
+				
+Guard: Yes.
+
+Kent: Do you work here?
+
+Guard: Yes, I do. I'm the security guard. I work here every night.
+
+Kent: What do you do?
+
+Guard: Mostly I help visitors and answer questions about the Lincoln Memorial.
+
+Kent: I think the Lincoln Memorial is the most beautiful building in Washington.
+
+Guard: Many people think so.
+
+Kent: Especially at night, when the lights are on.
+
+Guard: Well, it's seven o'clock now. It's time to turn on the lights. Do you want to see?
+
+Kent: I sure do.
+
+Guard: OK. Here's the control panel. When I push this button, the outside lights go on. See?
+
+Kent: Yes. What happens when you turn this knob?
+
+Guard: This knob controls the lights on the statue of Abraham Lincoln. When I turn the knob this way, the lights get stronger. When I turn it the other way, the lights get weaker.
+
+Kent: Oh, the building looks so beautiful when the lights are on!
+
+Guard: I think so too. Please take your time and look around. 
+
+Kent: Thank you.
+
+Guard: You're welcome.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>When is the Lincoln Memorial most beautiful?</question>
+						<option>at night</option>
+						<option>during the day</option>
+						<option>in the winter</option>
+						<answer>at night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What time does the guard turn on the lights?</question>
+						<option>at 7:00 pm</option>
+						<option>whenever it gets dark</option>
+						<option>at midnight</option>
+						<answer>at 7:00 pm</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What does the knob do?</question>
+						<option>It makes the lights on the statue stronger and weaker.</option>
+						<option>It controls the outside lights.</option>
+						<option>It turns the inside lights on and off.</option>
+						<answer>It makes the lights on the statue stronger and weaker.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I think it is the ____ beautiful building in Washington.</question>
+						<option>most</option>
+						<option>more</option>
+						<option>very</option>
+						<answer>most</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What happens when you ____ this knob?</question>
+						<option>turn</option>
+						<option>turned</option>
+						<option>turning</option>
+						<answer>turn</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>The building _____ so beautiful when the lights are on!</question>
+						<option>looks</option>
+						<option>looking</option>
+						<option>is looked</option>
+						<answer>looks</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: I love Italian food.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0307A.jpg</image>
+				<audio>NDE0307A.mp3</audio>
+				<viewscript>Max: Who's our guest today?
+				
+Kathy: Today's guest is Maria Alvarez.
+
+Max: She manages a clothing store, doesn't she?
+
+Kathy: That's right. In San Jose, California.
+
+Max: And what's our topic for today?
+
+Kathy: Today, we're going to talk about food.
+
+Max: Food? Good. I like to talk about food.
+
+Kathy: OK, Max, what's your favorite food?
+
+Max: I'm a meat eater. I like beef, especially steak. How about you, Kathy? What do you like to eat?
+
+Kathy: Oh, I like fish, especially swordfish. Do you like fish, Max?
+
+Max: No, I don't like fish very much.</viewscript>
+				<comprehension>
+					<title>Lesson 7-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who loves meat, especially steak?</question>
+						<option>Max</option>
+						<option>Kathy</option>
+						<option>They are both meat eaters.</option>
+						<answer>Max</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is Kathy's favorite food?</question>
+						<option>fish, especially swordfish</option>
+						<option>beef, especially steak</option>
+						<option>all kinds of meat</option>
+						<answer>fish, especially swordfish</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Max feel about fish?</question>
+						<option>He doesn't like it very much.</option>
+						<option>It's his favorite food.</option>
+						<option>He never eats fish.</option>
+						<answer>He doesn't like it very much.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I like ____, especially steak.</question>
+						<option>beef</option>
+						<option>fish</option>
+						<option>vegetables</option>
+						<answer>beef</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What do you like __ eat?</question>
+						<option>to</option>
+						<option>for</option>
+						<option>by</option>
+						<answer>to</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I don't like fish _________.</question>
+						<option>very much</option>
+						<option>enough</option>
+						<option>all</option>
+						<answer>very much</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0307B.jpg</image>
+				<audio>NDE0307B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Maria lives in San Jose, California. Hello, Maria.
+				
+Maria: Hello, Kathy. Nice to see you again.
+
+Kathy: Today we're going to talk about food. Maria, do you like American food?
+
+Maria: American food?
+
+Kathy: Yes. Steak, hamburgers, and so on.
+
+Maria: Well, I like American food, but it's not my favorite kind of food.
+
+Kathy: What is your favorite kind of food?
+
+Maria: Italian. I love Italian food.
+
+Kathy: So you like spaghetti and pizza, right?
+
+Maria: Oh, yes. I love pizza!
+
+Kathy: How about Mexican food? Do you like Mexican food?
+
+Maria: Yes, I do. My parents are both from Mexico. And they're both excellent cooks.
+
+Kathy: What do they cook?
+
+Maria: Oh, they cook all kinds of Mexican food: enchiladas, tacos, tamales.
+
+Kathy: How about you? Do you cook Mexican food?
+
+Maria: Sure... but I prefer my mother's cooking.</viewscript>
+				<comprehension>
+					<title>Lesson 7-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0307B_Q1.mp3|What is Maria's favorite kind of food?</question>
+						<option>Italian food</option>
+						<option>American food</option>
+						<option>Mexican food</option>
+						<answer>Italian food</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0307B_Q2.mp3|What kind of food do Maria's parents cook?</question>
+						<option>Mexican food</option>
+						<option>Italian food</option>
+						<option>American food</option>
+						<answer>Mexican food</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0307B_Q3.mp3|Enchiladas, tacos, and tamales are examples of what kind of food?</question>
+						<option>Mexican food</option>
+						<option>Italian food</option>
+						<option>American food</option>
+						<answer>Mexican food</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>food?</option>
+						<option>of</option>
+						<option>kind</option>
+						<option>favorite</option>
+						<option>your</option>
+						<option>What's</option>
+						<answer>What's your favorite kind of food?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>and my</option>
+						<option>mother</option>
+						<option>My father</option>
+						<option>cooks.</option>
+						<option>excellent</option>
+						<option>are both</option>
+						<answer>My father and my mother are both excellent cooks.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>my</option>
+						<option>cooking.</option>
+						<option>prefer</option>
+						<option>mother's</option>
+						<option>I</option>
+						<answer>I prefer my mother's cooking.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0307C.jpg</image>
+				<audio>NDE0307C.mp3</audio>
+				<viewscript>Kathy: Do you like Chinese food?
+				
+Maria: Yes, I do. I like Chinese food very much. I often go to Chinese restaurants with my friends.
+
+Kathy: What other kinds of food do you like?
+
+Maria: I like Indian food.
+
+Kathy: Indian food is pretty hot.
+
+Maria: Do you mean, spicy hot?
+
+Kathy: Yes. Spicy hot.
+
+Maria: Oh, I like hot food.
+
+Kathy: What kinds of food don't you like?
+
+Maria: Well, I don't like Thai food.
+
+Kathy: Why not?
+
+Maria: Thai food is really hot! It's too hot for me!</viewscript>
+				<comprehension>
+					<title>Lesson 7-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Maria feel about Chinese food?</question>
+						<option>She likes it.</option>
+						<option>She doesn't like it very much.</option>
+						<option>It's too hot for her.</option>
+						<answer>She likes it.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which of these kinds of food is not spicy hot?</question>
+						<option>Italian food</option>
+						<option>Indian food</option>
+						<option>Thai food</option>
+						<answer>Italian food</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What kind of food is too hot for Maria?</question>
+						<option>Thai food</option>
+						<option>Indian food</option>
+						<option>Mexican food</option>
+						<answer>Thai food</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I often go to _______ restaurant with my friends.</question>
+						<option>Chinese</option>
+						<option>China</option>
+						<option>China food</option>
+						<answer>Chinese</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What kinds of food _________ like?</question>
+						<option>you don't</option>
+						<option>don't you</option>
+						<option>don't</option>
+						<answer>don't you</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Thai food is ___ hot for me!</question>
+						<option>too</option>
+						<option>very</option>
+						<option>enough</option>
+						<answer>too</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: Do you like baseball?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0308A.jpg</image>
+				<audio>NDE0308A.mp3</audio>
+				<viewscript>Kathy: Today's guest is John Harris.
+				
+Max: I remember John. He's Bob Harris's son, isn't he?
+
+Kathy: That's right.
+
+Max: And what's our topic today?
+
+Kathy: Today we're going to talk about sports.
+
+Max: I know you're a big baseball fan, Kathy.
+
+Kathy: That's right. Baseball is my favorite sport. What about you? Do you like baseball?
+
+Max: Not very much. I prefer football.
+
+Kathy: Do you mean American football?
+
+Max: That's right. I mean American football, not soccer.
+
+Kathy: Do you play football?
+
+Max: Play it? No. I only watch it on television.</viewscript>
+				<comprehension>
+					<title>Lesson 8-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is John's father?</question>
+						<option>Bob Harris</option>
+						<option>Richard Chen</option>
+						<option>Henry Thornton</option>
+						<answer>Bob Harris</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is Kathy's favorite sport?</question>
+						<option>baseball</option>
+						<option>football</option>
+						<option>soccer</option>
+						<answer>baseball</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which does Max like better-watching football or playing football?</question>
+						<option>He prefers to watch football on television.</option>
+						<option>He likes to play football.</option>
+						<option>He doesn't like football. He prefers baseball.</option>
+						<answer>He prefers to watch football on television.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Baseball is my ________ sport.</question>
+						<option>favorite</option>
+						<option>favored</option>
+						<option>most favor</option>
+						<answer>favorite</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you ____ football?</question>
+						<option>play</option>
+						<option>player</option>
+						<option>like play</option>
+						<answer>play</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I only watch it __ television.</question>
+						<option>on</option>
+						<option>by</option>
+						<option>with</option>
+						<answer>on</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0308B.jpg</image>
+				<audio>NDE0308B.mp3</audio>
+				<viewscript>Kathy: Our guest today is John Harris. John is a high-school student. Hi, John.
+				
+John: Hi, Kathy.
+
+Kathy: Today we're talking about sports. Your favorite sport is gymnastics, isn't it?
+
+John: Yes, it is. I love gymnastics. I practice every day at school.
+
+Kathy: Do you like any other sports?
+
+John: Well, I like basketball. I play basketball with my friends.
+
+Kathy: How about baseball?
+
+John: I play baseball sometimes, but I don't like it very much.
+
+Kathy: Oh, why not?
+
+John: It's too slow for me. I like more action.</viewscript>
+				<comprehension>
+					<title>Lesson 8-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0308B_Q1.mp3|What is John's favorite sport?</question>
+						<option>gymnastics</option>
+						<option>basketball</option>
+						<option>baseball</option>
+						<answer>gymnastics</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0308B_Q2.mp3|Does John ever play basketball?</question>
+						<option>He sometimes play with his friends.</option>
+						<option>He never plays basketball.</option>
+						<option>Yes. It's his favorite sport.</option>
+						<answer>He sometimes play with his friends.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0308B_Q3.mp3|What doesn't John like about baseball?</question>
+						<option>There isn't enough action.</option>
+						<option>There's too much action.</option>
+						<option>It's too fast.</option>
+						<answer>There isn't enough action.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>gymnastics,</option>
+						<option>is</option>
+						<option>Your</option>
+						<option>favorite</option>
+						<option>sports</option>
+						<option>isn't it?</option>
+						<answer>Your favorite sports is gymnastics, isn't it?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>other</option>
+						<option>sports?</option>
+						<option>any</option>
+						<option>Do</option>
+						<option>like</option>
+						<option>you</option>
+						<answer>Do you like any other sports?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>basketball</option>
+						<option>my</option>
+						<option>friends.</option>
+						<option>I</option>
+						<option>play</option>
+						<option>with</option>
+						<answer>I play basketball with my friends.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0308C.jpg</image>
+				<audio>NDE0308C.mp3</audio>
+				<viewscript>Kathy: How about tennis, John? Do you play tennis?
+				
+John: I play a little, but I'm not very good. Sometimes I play tennis with my sister, Collette.
+
+Kathy: How good is she?
+
+John: She's pretty good.
+
+Kathy: Does she usually win when you play?
+
+John: Yes, she does. She usually beats me.
+
+Max: John, do you play golf?
+
+John: No, I don't. I don't know how to play golf.
+
+Max: Do you ever watch golf on TV?
+
+John: No, I don't. I think it's boring. I don't like to watch sports on television.</viewscript>
+				<comprehension>
+					<title>Lesson 8-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is better at tennis, John or his sister Collette?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>They are about the same.</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does John know how to play golf?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does</option>
+						<option>No, he doesn't, but he likes to watch golf.</option>
+						<answer>No, he doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does John feel about watching sports on television?</question>
+						<option>He doesn't like to watch sports on TV.</option>
+						<option>He likes to watch baseball and golf on TV.</option>
+						<option>He likes to watch sports on TV, but he prefers to play.</option>
+						<answer>He doesn't like to watch sports on TV.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I play tennis ________, but I'm not very good.</question>
+						<option>a little</option>
+						<option>little</option>
+						<option>well</option>
+						<answer>a little</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Does your sister usually ___ when you play?</question>
+						<option>win</option>
+						<option>beat</option>
+						<option>scoring</option>
+						<answer>win</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I don't ________ to play golf.</question>
+						<option>know how</option>
+						<option>know</option>
+						<option>how</option>
+						<answer>know how</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: Can you play the piano?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0309A.jpg</image>
+				<audio>NDE0309A.mp3</audio>
+				<viewscript>Kathy: Today's guest is Chris Scott.
+				
+Max: Sara Scott's sister?
+
+Kathy: That's right. She's a ballet dancer. Do you remember her?
+
+Max: Oh, yes. Is she going to talk about dancing?
+
+Kathy: Yes. Dancing and some other things.
+
+Max: What about you, Kathy? Do you like to dance?
+
+Kathy: Yes, I do.
+
+Max: Are you a good dancer?
+
+Kathy: I'm not bad. I'm a pretty good dancer. You like to dance, don't you, Max?
+
+Max: Well, I like to dance, but I'm not a very good dancer.</viewscript>
+				<comprehension>
+					<title>Lesson 9-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Chris Scott do?</question>
+						<option>She's a ballet dancer.</option>
+						<option>She's the director of a ballet company.</option>
+						<option>She teaches ballet.</option>
+						<answer>She's a ballet dancer.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Is Kathy a good dancer?</question>
+						<option>She's pretty good.</option>
+						<option>She's not very good.</option>
+						<option>She's a ballet dancer.</option>
+						<answer>She's pretty good.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How about Max? is he a good dancer?</question>
+						<option>He's not a very good dancer.</option>
+						<option>He doesn't like to dance.</option>
+						<option>He's an excellent dancer.</option>
+						<answer>He's not a very good dancer.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>__ you like to dance?</question>
+						<option>Do</option>
+						<option>Are</option>
+						<option>Can</option>
+						<answer>Do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Are you ______ dancer?</question>
+						<option>a good</option>
+						<option>good</option>
+						<option>the good</option>
+						<answer>a good</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I like to dance, ___ I'm not a very good dancer.</question>
+						<option>but</option>
+						<option>because</option>
+						<option>when</option>
+						<answer>but</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0309B.jpg</image>
+				<audio>NDE0309B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Chris Scott. Chris is a ballet dancer. She lives in Chicago with her sister Sara. Hello, Chris. Welcome back to our show.
+				
+Chris: It's nice to be here.
+
+Kathy: Chris, I'd like to talk to you about your dancing.
+
+Chris: Certainly.
+
+Kathy: Do you dance with a ballet company in Chicago?
+
+Chris: Yes, I do. We're a small company, but we're pretty good. We have a great director. She's a wonderful dancer. She dances with the Chicago Ballet.
+
+Kathy: How good are the dancers in your company?
+
+Chris: Oh, some of the dancers are excellent.
+
+Kathy: How often do you practice?
+
+Chris: We practice four times a week for several hours. We're getting ready for a performance next month.
+
+Kathy: Oh, what ballet are you performing?
+
+Chris: We're performing several short ballets.</viewscript>
+				<comprehension>
+					<title>Lesson 9-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0309B_Q1.mp3|Who is Chris's sister?</question>
+						<option>Sara Scott</option>
+						<option>Sandra Harris</option>
+						<option>Kathy</option>
+						<answer>Sara Scott</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0309B_Q2.mp3|How often to the dancers practice?</question>
+						<option>four times a week for a several hours</option>
+						<option>several times a week for a four hours</option>
+						<option>They will begin practicing next month.</option>
+						<answer>four times a week for a several hours</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0309B_Q3.mp3|What will the ballet company do next month?</question>
+						<option>perform several short ballets</option>
+						<option>practice every day</option>
+						<option>go to Chicago</option>
+						<answer>perform several short ballets</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>How</option>
+						<option>are</option>
+						<option>company?</option>
+						<option>in your</option>
+						<option>good</option>
+						<option>the dancers</option>
+						<answer>How good are the dancers in your company?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>practice</option>
+						<option>for several</option>
+						<option>a week</option>
+						<option>hours.</option>
+						<option>four times</option>
+						<option>We</option>
+						<answer>We practice four times a week for several hours.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Do you</option>
+						<option>a ballet</option>
+						<option>dance</option>
+						<option>company</option>
+						<option>with</option>
+						<option>in Chicago?</option>
+						<answer>Do you dance with a ballet company in Chicago?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0309C.jpg</image>
+				<audio>NDE0309C.mp3</audio>
+				<viewscript>Kathy: Our guest today is Chris Scott. She's a ballet dancer. Chris, what's your favorite kind of music?
+				
+Chris: Classical music. I listen to classical music all the time. When I dance ballet, I usually dance to classical music.
+
+Kathy: What other kinds of music do you like?
+
+Chris: Well, I like rock music too.
+
+Kathy: Rock music!
+
+Chris: Yes. I like to dance to rock music, when I go out with my friends.
+
+Kathy: How about samba and other kinds of Latin music?
+
+Chris: I like to listen to Latin music, but I don't know any Latin dances.
+
+Kathy: You like music. Can you play a musical instrument?
+
+Chris: I can play the piano. And I can play the guitar a little.
+
+Kathy: How well can you play the piano?
+
+Chris: Pretty well. I can play pretty well.
+
+Kathy: Can you sing?
+
+Chris: No, I can't. I can't sing at all.
+
+Kathy: Not at all?
+
+Chris: No. I'm a terrible singer!</viewscript>
+				<comprehension>
+					<title>Lesson 9-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Chris's favorite kind of music?</question>
+						<option>classical music</option>
+						<option>rock music</option>
+						<option>Latin music</option>
+						<answer>classical music</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Which instrument can she play better--the piano or the guitar?</question>
+						<option>the piano</option>
+						<option>the guitar</option>
+						<option>She plays both very well.</option>
+						<answer>the piano</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How good singer is she?</question>
+						<option>She can't sing at all.</option>
+						<option>She's a pretty good singer.</option>
+						<option>She's an excellent singer.</option>
+						<answer>She can't sing at all.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>____ I dance ballet, I usually dance to classical music.</question>
+						<option>When</option>
+						<option>During</option>
+						<option>For</option>
+						<answer>When</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I like ________ to rock music, when I go out with my friends.</question>
+						<option>to dance</option>
+						<option>dance</option>
+						<option>to dancing</option>
+						<answer>to dance</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I can ____ the guitar a little.</question>
+						<option>play</option>
+						<option>to play</option>
+						<option>playing</option>
+						<answer>play</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0309_bonus.jpg</image>
+				<audio>NDE0309_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm at the Washington Zoo. Excuse me?
+				
+Linda: Oh, hello.
+
+Kent: Would you like to be on our radio show?
+
+Linda: Sure. That sounds like fun.
+
+Kent: Are these your children?
+
+Linda: Yes. This is Dana. She's three years old. And this is her sister Karen. Karen is six. And my name is Linda.
+
+Kent: Nice to meet you, Linda. I'm Kent. Are you having a good time today?
+
+Linda: Oh, yes. Dana and Karen love the zoo!
+
+Kent: What are their favorite animals?
+
+Linda: Well, Dana likes the smaller animals. She likes the rabbits best.
+
+Kent: What about Karen?
+
+Linda: Karen prefers the larger animals. For example, the lions and the tigers. But she likes the bears best, especially the polar bears.
+
+Kent: What about the monkeys? Do they like the monkeys?
+
+Linda: Oh, they both love the monkeys. Karen wants to have a pet monkey. And Dana wants to be a monkey!
+
+Kent: Well, I hope you all have a good time today! Where are you going now?
+
+Linda: We're going to the Monkey House.
+
+Kent: Well, have fun. And thanks!</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which child is older, Dana or Karen?</question>
+						<option>Karen is older.</option>
+						<option>Dana is older.</option>
+						<option>They are the same age.</option>
+						<answer>Karen is older.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What are Karen's favorite animals?</question>
+						<option>polar bears</option>
+						<option>lions and tigers</option>
+						<option>rabbits</option>
+						<answer>polar bears</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What kind of animal do both children love?</question>
+						<option>monkeys</option>
+						<option>bears</option>
+						<option>rabbits</option>
+						<answer>monkeys</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Dana likes the rabbits ________.</question>
+						<option>the best</option>
+						<option>well</option>
+						<option>too much</option>
+						<answer>the best</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Karen prefers the ______ animals.</question>
+						<option>larger</option>
+						<option>more large</option>
+						<option>not large</option>
+						<answer>larger</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Karen wants _______ a pet monkey.</question>
+						<option>to have</option>
+						<option>have</option>
+						<option>having</option>
+						<answer>to have</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: Do you like to read mystery stories?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0310A.jpg</image>
+				<audio>NDE0310A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. Hello, Martha. You write mystery stories, don't you?
+				
+Martha: Yes, I do. Right now I'm writing a story called "A Capital Crime."
+
+Kathy: Your stories usually take place in Washington, D.C., don't they?
+
+Martha: That's right. I live in Washington and I like to write about Washington.
+
+Kathy: Do you like to read mystery stories?
+
+Martha: Certainly.
+
+Kathy: Who's your favorite mystery writer?
+
+Martha: Edgar Allan Poe.
+
+Kathy: What other kinds of books do you read?
+
+Martha: I also like to read books about history. Especially books about American presidents. Right now I'm reading a book about Abraham Lincoln.
+
+Kathy: That sounds interesting.
+
+Martha:	Yes, it is.</viewscript>
+				<comprehension>
+					<title>Lesson 10-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of stories does Martha write?</question>
+						<option>mysteries</option>
+						<option>romances</option>
+						<option>westerns</option>
+						<answer>mysteries</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where do most of her stories take place?</question>
+						<option>Washington, D.C.</option>
+						<option>New York</option>
+						<option>San Fransisco</option>
+						<answer>Washington, D.C.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What other kinds of books does she like to read?</question>
+						<option>history</option>
+						<option>science</option>
+						<option>travel</option>
+						<answer>history</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Right now I'm _______ a story called "A Capital Crime."</question>
+						<option>writing</option>
+						<option>write</option>
+						<option>to write</option>
+						<answer>writing</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do you like to read _______________?</question>
+						<option>mystery stories</option>
+						<option>the mystery stories</option>
+						<option>mystery story</option>
+						<answer>mystery stories</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_____ your favorite mystery writer?</question>
+						<option>Who's</option>
+						<option>Whose</option>
+						<option>Who</option>
+						<answer>Who's</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0310B.jpg</image>
+				<audio>NDE0310B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Martha Harris. She is a mystery writer and she lives in Washington, D.C. You like to read mystery stories. What else do you like to do in your free time?
+				
+Martha: Well, my husband and I take classes at American University, here in Washington. We also like to play cards. We play cards with our friends every Saturday night.
+
+Kathy: What kinds of card games do you play?
+
+Martha: Our favorite game is bridge, but we like all kinds of card games.
+
+Kathy: How about poker? Can you play poker?
+
+Martha: I can't, but my husband can. He's a fairly good poker player. He plays poker with his friends every Thursday night.</viewscript>
+				<comprehension>
+					<title>Lesson 10-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0310B_Q1.mp3|What are bridge and poker?</question>
+						<option>card games</option>
+						<option>sports</option>
+						<option>television shows</option>
+						<answer>card games</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0310B_Q2.mp3|How often do Martha and her husband play cards with their friends?</question>
+						<option>every Saturday night</option>
+						<option>every Thursday night</option>
+						<option>every weekday night</option>
+						<answer>every Saturday night</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0310B_Q3.mp3|Who is the better poker player, Martha or her husband?</question>
+						<option>her husband</option>
+						<option>Martha</option>
+						<option>Neither one plays poker.</option>
+						<answer>her husband</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>free time?</option>
+						<option>What else</option>
+						<option>do you</option>
+						<option>in your</option>
+						<option>like</option>
+						<option>to do</option>
+						<answer>What else do you like to do in your free time?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Saturday night.</option>
+						<option>every</option>
+						<option>our friends</option>
+						<option>with</option>
+						<option>play cards</option>
+						<option>We</option>
+						<answer>We play cards with our friends every Saturday night.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>poker player.</option>
+						<option>good</option>
+						<option>My</option>
+						<option>husband</option>
+						<option>is</option>
+						<option>a fairly</option>
+						<answer>My husband is a fairly good poker player.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0310C.jpg</image>
+				<audio>NDE0310C.mp3</audio>
+				<viewscript>Kathy: Can you play chess?
+				
+Martha: Yes, I can. I enjoy playing chess. I'm a pretty good chess player.
+
+Kathy: Does your husband play chess?
+
+Martha: Yes, he does, but he doesn't play very well.
+
+Kathy: Do you ever play chess with your husband?
+
+Martha: Once in a while. But he doesn't like to play with me.
+
+Kathy: Why not?
+
+Martha: I'm too good for him. I always win.</viewscript>
+				<comprehension>
+					<title>Lesson 10-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How good a chess player is Martha's husband?</question>
+						<option>He's not a very good player.</option>
+						<option>He plays very well.</option>
+						<option>He plays better than she does.</option>
+						<answer>He's not a very good player.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How often do Martha and her husband play chess together?</question>
+						<option>not very often</option>
+						<option>often</option>
+						<option>about once a week</option>
+						<answer>not very often</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why doesn't Martha's husband like to play chess with her?</question>
+						<option>She's too good for him.</option>
+						<option>She's not good enough for him.</option>
+						<option>He's too good for her.</option>
+						<answer>She's too good for him.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I enjoy _______ chess.</question>
+						<option>playing</option>
+						<option>to play</option>
+						<option>play</option>
+						<answer>playing</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>My husband doesn't play chess very ____.</question>
+						<option>well</option>
+						<option>good</option>
+						<option>pretty</option>
+						<answer>well</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>We play chess _____________.</question>
+						<option>once in a while</option>
+						<option>at once</option>
+						<option>in a while</option>
+						<answer>once in while</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: Do you have a favorite musician?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0311A.jpg</image>
+				<audio>NDE0311A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. Sandy is a student at American University, here in Washington. Sandy, what do you like to do in your free time?
+				
+Sandy: When I'm not studying?
+
+Kathy: That's right. What do you do when you're not studying?
+
+Sandy: Well, I listen to music. Especially jazz.
+
+Kathy: Do you have a favorite musician?
+
+Sandy: Oh, yes! John Coltrane. My favorite CD is "My Favorite Things" by John Coltrane.
+
+Kathy: So you listen to jazz...
+
+Sandy: And I also play jazz.
+
+Kathy: You're a jazz musician? Aren't you studying science in school?
+
+Sandy: Yes, I am. But I also love music.
+
+Kathy: What instrument do you play?
+
+Sandy: I play the saxophone.
+
+Kathy: Do you play in a band?
+
+Sandy: Yes, I do. Once a month we play at a small club in Georgetown.</viewscript>
+				<comprehension>
+					<title>Lesson 11-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What kind of music does Sandy like best?</question>
+						<option>jazz</option>
+						<option>rock</option>
+						<option>classical</option>
+						<answer>jazz</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is Sandy's favorite jazz CD?</question>
+						<option>"My Favorite Things"</option>
+						<option>"Kind of Blue"</option>
+						<option>"All The Things You Are"</option>
+						<answer>"My Favorite Things"</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What instrument does Sandy play?</question>
+						<option>saxophone</option>
+						<option>trumpet</option>
+						<option>drums</option>
+						<answer>saxophone</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What do you do when you're not ________?</question>
+						<option>studying</option>
+						<option>study</option>
+						<option>are studying</option>
+						<answer>studying</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>__________ studying science in school?</question>
+						<option>Aren't you</option>
+						<option>Are not you</option>
+						<option>Are you're</option>
+						<answer>Aren't you</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>What instrument do you ____?</question>
+						<option>play</option>
+						<option>listen</option>
+						<option>favorite</option>
+						<answer>play</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0311B.jpg</image>
+				<audio>NDE0311B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sandy Steele. He's a student at American University. He's studying science and he plays in a jazz band. How big is your band, Sandy?
+				
+Sandy: There are four of us. I play saxophone. My friend Tom plays drums. Greg plays bass and Karen plays piano.
+
+Kathy: Are they good musicians?
+
+Sandy: Well, Greg and Karen are both pretty good.
+
+Kathy: What about Tom?
+
+Sandy: Well, he's not the greatest drummer in the world. But he's not bad, and he's getting better.
+
+Kathy: I'd like to hear you play sometime.
+
+Sandy: Sure. Any time.</viewscript>
+				<comprehension>
+					<title>Lesson 11-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0311B_Q1.mp3|How many musicians are there in Sandy's band?</question>
+						<option>four</option>
+						<option>three</option>
+						<option>two</option>
+						<answer>four</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0311B_Q2.mp3|What instrument does Tom play?</question>
+						<option>drums</option>
+						<option>bass</option>
+						<option>piano</option>
+						<answer>drums</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0311B_Q3.mp3|Which musician is not as good as the others?</question>
+						<option>the drummer</option>
+						<option>the bass player</option>
+						<option>the piano player</option>
+						<answer>the drummer</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Sandy</option>
+						<option>plays</option>
+						<option>in a jazz band.</option>
+						<option>and he</option>
+						<option>is studying</option>
+						<option>science</option>
+						<answer>Sandy is studying science and he plays in a jazz band.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Tom's not</option>
+						<option>getting</option>
+						<option>better.</option>
+						<option>and he's</option>
+						<option>a bad</option>
+						<option>drummer,</option>
+						<answer>Tom's not a bad drummer, and he's getting better.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>He's</option>
+						<option>not</option>
+						<option>in the</option>
+						<option>world.</option>
+						<option>the greatest</option>
+						<option>drummer</option>
+						<answer>He's not the greatest drummer in the world.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0311C.jpg</image>
+				<audio>NDE0311C.mp3</audio>
+				<viewscript>Kathy: Do you like rock music?
+				
+Sandy: I like rock music, but I prefer jazz.
+
+Kathy: Sandy, what kinds of music don't you like?
+
+Sandy: What don't I like? That's easy. Country and Western music. I can't stand Country and Western music. I hate it!
+
+Kathy: But you come from Texas, don't you? People in Texas love Country and Western music.
+
+Sandy: Yes, they do. That's why I don't live in Texas anymore. I don't want to listen to Country and Western music all the time!</viewscript>
+				<comprehension>
+					<title>Lesson 11-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which does Sandy prefer, rock or jazz?</question>
+						<option>He prefers jazz.</option>
+						<option>He likes rock better.</option>
+						<option>He doesn't like rock music.</option>
+						<answer>He prefers jazz.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How does Sandy feel about Country and Western music?</question>
+						<option>He can't stand Country and Western music.</option>
+						<option>He doesn't mind Country and Western music.</option>
+						<option>He only likes jazz.</option>
+						<answer>He can't stand Country and Western music.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Why is Sandy happy not to be living in Texas?</question>
+						<option>He hates Country and Western music.</option>
+						<option>He likes the music in Texas.</option>
+						<option>He has never lived in Texas.</option>
+						<answer>He hates Country and Western music.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Sandy ___________ Country and Western music.</question>
+						<option>can't stand</option>
+						<option>can stand</option>
+						<option>doesn't stand</option>
+						<answer>can't stand</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>People in Texas ____ Country and Western music.</question>
+						<option>love</option>
+						<option>loves</option>
+						<option>are loving</option>
+						<answer>love</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I don't want to _________ Country and Western music all the time.</question>
+						<option>listen to</option>
+						<option>listen</option>
+						<option>listening</option>
+						<answer>listen to</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: Can you use the internet?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0312A.jpg</image>
+				<audio>NDE0312A.mp3</audio>
+				<viewscript>Kathy: Today's guest is Denise Collins.
+				
+Max: Denise. She was Employee of the Year at her company.
+
+Kathy: That's right. She works at a law firm. She's a receptionist.
+
+Max: She's blind, isn't she?
+
+Kathy: That's right. She's blind. She can't see.
+
+Max: And what's our topic for today?
+
+Kathy: We're going to talk with Denise about her work and her school. Hi, Denise. It's nice to see you again.
+
+Denise: It's nice to be here.
+
+Kathy: I'd like to ask you a little about your work skills.
+
+Denise: Yes?
+
+Kathy: You answer phones and take messages.
+
+Denise: That's right.
+
+Kathy: Can you type?
+
+Denise: Yes. I'm a very fast typist.</viewscript>
+				<comprehension>
+					<title>Lesson 12-A Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Which of these statements is false?</question>
+						<option>Denise can't type.</option>
+						<option>Denise is blind.</option>
+						<option>Denise works at a law firm.</option>
+						<answer>Denise can't type.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is Denise's job?</question>
+						<option>She's a receptionist.</option>
+						<option>She's a lawyer.</option>
+						<option>She's a typist.</option>
+						<answer>She's a receptionist.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How good is her typing?</question>
+						<option>She's very fast.</option>
+						<option>She's not very fast.</option>
+						<option>She's fast but she makes many mistakes.</option>
+						<answer>She's very fast.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>She _____ at a law firm.</question>
+						<option>works</option>
+						<option>working</option>
+						<option>will working</option>
+						<answer>works</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>She's blind. She _____ see.</question>
+						<option>can't</option>
+						<option>can</option>
+						<option>can to</option>
+						<answer>can't</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>________ to ask you a little about your work skills.</question>
+						<option>I'd like</option>
+						<option>I like</option>
+						<option>I am liking</option>
+						<answer>I'd like</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0312B.jpg</image>
+				<audio>NDE0312B.mp3</audio>
+				<viewscript>Denise: I'm a very fast typist. I can also speak to my computer and my computer can write what I say.
+				
+Kathy: Really? Your computer can write what you say?
+
+Denise: That's right, if I speak clearly.
+
+Kathy: Is it faster than typing?
+
+Denise: That's a good question. I can type very fast. But I can speak faster than I can type.
+
+Kathy: Does the computer make many mistakes?
+
+Denise: No, not many. And it's getting better all the time!
+
+Kathy: That's very interesting! You're taking classes at night school, aren't you?
+
+Denise: That's right. I'm studying law.
+
+Kathy: Do you use a computer when you study?
+
+Denise: Yes, I do.
+
+Kathy: How?
+
+Denise: I can't see, but my computer can speak to me.
+
+Kathy: So you have a computer with speakers?
+
+Denise: That's right. I can't see but I can hear. I can listen to my computer.</viewscript>
+				<comprehension>
+					<title>Lesson 12-B Comprehension</title>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0312B_Q1.mp3|What can Denise's computer do?</question>
+						<option>It can write what she says.</option>
+						<option>It can say what she writes.</option>
+						<option>It can correct her mistakes.</option>
+						<answer>It can write what she says.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0312B_Q2.mp3|Does her computer sometimes make mistakes?</question>
+						<option>Yes, it does.</option>
+						<option>Yes, it makes a lots of mistakes.</option>
+						<option>No, it never makes mistakes.</option>
+						<answer>Yes, it does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0312B_Q3.mp3|Can her computer speak to Denise?</question>
+						<option>Yes, it can.</option>
+						<option>No, it can't.</option>
+						<option>It doesn't have speakers.</option>
+						<answer>Yes, it can.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I can</option>
+						<option>type.</option>
+						<option>faster</option>
+						<option>than I</option>
+						<option>can</option>
+						<option>speak</option>
+						<answer>I can speak faster than I can type.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Does</option>
+						<option>mistakes?</option>
+						<option>make</option>
+						<option>many</option>
+						<option>the computer</option>
+						<answer>Does the computer make many mistakes?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>my computer</option>
+						<option>can speak</option>
+						<option>to me.</option>
+						<option>but</option>
+						<option>I can't</option>
+						<option>see,</option>
+						<answer>I can't see, but my computer can speak to me.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0312C.jpg</image>
+				<audio>NDE0312C.mp3</audio>
+				<viewscript>Denise: I can't see but I can hear. I can listen to my computer.
+				
+Kathy: How does that help you?
+
+Denise: My textbook is on a CD-ROM. My computer can read the textbook out loud to me.
+
+Kathy: What about the Internet? Can you use the Internet?
+
+Denise: Yes, I can. My computer can also read pages from the Internet to me.
+
+Kathy: So computers really help you!
+
+Denise: Yes. For me, computers are wonderful!</viewscript>
+				<comprehension>
+					<title>Lesson 12-C Comprehension</title>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How does Denise's computer help her read her textbook?</question>
+						<option>The computer can speak the words of the textbook.</option>
+						<option>The computer can understand the words of the textbook.</option>
+						<option>The computer can write the words of the textbook.</option>
+						<answer>The computer can speak the words of the textbook.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Can Denise use the internet?</question>
+						<option>Yes, she can.</option>
+						<option>No, she can't.</option>
+						<option>No, she can't read the pages.</option>
+						<answer>Yes, she can.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does Denise feel about computers?</question>
+						<option>She thinks they are wonderful.</option>
+						<option>She thinks they have some uses.</option>
+						<option>She thinks they are too difficult to use.</option>
+						<answer>She thinks they are wonderful.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I can't see but I ___ hear.</question>
+						<option>can</option>
+						<option>can to</option>
+						<option>can't</option>
+						<answer>can</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>My computer can read the textbook ________ to me.</question>
+						<option>out loud</option>
+						<option>silently</option>
+						<option>listen</option>
+						<answer>out loud</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Can you ___ the Internet?</question>
+						<option>use</option>
+						<option>to use</option>
+						<option>using</option>
+						<answer>use</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0312_bonus.jpg</image>
+				<audio>NDE0312_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm at a gymnasium in Washington, D.C. We're watching a Wheelchair Basketball game. Let's speak to the coach. Hello, I'm Kent Moss.
+				
+Tom: Pleased to meet you. I'm Tom Lansing.
+
+Kent: I see that all the players are in wheelchairs.
+
+Tom: Yes, that's right. They all have problems with their legs, and they can't walk. But they can play basketball. They are all excellent players.
+
+Kent: I can see that.
+
+Tom: Yes. They can move very quickly in their wheelchairs. And they can throw and catch the ball very well.
+
+Kent: Do you play basketball yourself?
+
+Tom: Yes, I do. As you can see, I can't walk, but I'm a very good basketball player.
+
+Kent: How's the game going?
+
+Tom: Our team is winning.
+
+Kent: What's the score?
+
+Tom: 37 to 32, and it's almost over.
+
+SFX: crowd noise.
+
+Tom: Oh, now it's 40 to 32.
+
+SFX: final buzzer
+
+Tom: That's the end of the game.
+
+Kent: Congratulations on your victory!
+
+Tom: Thank you. It's been nice talking with you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Tom Lansing do?</question>
+						<option>He coaches a Wheelchair Basketball team.</option>
+						<option>He is a professional basketball player.</option>
+						<option>He is a baseball player.</option>
+						<answer>He coaches a Wheelchair Basketball team.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What can't the basketball players do?</question>
+						<option>walk</option>
+						<option>move quickly in their wheelchairs</option>
+						<option>throw and catch the basketball</option>
+						<answer>walk</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who won the basketball game?</question>
+						<option>the coach's team</option>
+						<option>the other team</option>
+						<option>The game isn't over.</option>
+						<answer>the coach's team</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>They all have problems with their legs, and they _____ walk.</question>
+						<option>can't</option>
+						<option>can't to</option>
+						<option>not able to</option>
+						<answer>can't</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>They can throw and catch the ball very ____.</question>
+						<option>well</option>
+						<option>good</option>
+						<option>better</option>
+						<answer>well</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I can't ____, but I'm a very good basketball player.</question>
+						<option>walk</option>
+						<option>to walk</option>
+						<option>walking</option>
+						<answer>walk</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+</mainlist>
