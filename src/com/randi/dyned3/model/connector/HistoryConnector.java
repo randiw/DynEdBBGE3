@@ -29,6 +29,8 @@ public class HistoryConnector extends UploadConnector {
 
 	public void onReceiveResponseEvent(InputStream is) {
 		System.out.println("[HistoryConnector] onReceiveResponseEvent");
+		boolean exit = false;
+		
 		String jsonString;
 		try {
 			jsonString = Stream.asString(is);
@@ -83,13 +85,16 @@ public class HistoryConnector extends UploadConnector {
 						}
 					}
 					
-					synchronized (UiApplication.getEventLock()) {
-						MainApp.popAllScreen();
-						UiApplication.getUiApplication().pushScreen(new HomeMenuScreen());						
-					}
 				} else {
 					String message = object.getString("error");
 					System.out.println("message error: " + message);
+				}
+				exit = true;
+				
+				//true or false, tetap keluar dari loadingscreen
+				synchronized (UiApplication.getEventLock()) {
+					MainApp.popAllScreen();
+					UiApplication.getUiApplication().pushScreen(new HomeMenuScreen());						
 				}
 			}
 		} catch (IOException e) {
@@ -98,6 +103,14 @@ public class HistoryConnector extends UploadConnector {
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		} finally {
+			if(!exit) {
+				exit = true;
+				synchronized (UiApplication.getEventLock()) {
+					MainApp.popAllScreen();
+					UiApplication.getUiApplication().pushScreen(new HomeMenuScreen());						
+				}				
+			}
 		}
 	}
 
